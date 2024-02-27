@@ -1,0 +1,66 @@
+#headline-pov
+{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content: flex-end;
+}
+
+.nav
+{
+  padding-left:100px;
+}
+
+body
+{
+  font-family:'Times New Roman', Times, serif;
+  color: #FF1818;
+  background-color: #E8E5DD;
+}
+
+.flex-container
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content:flex-start;
+}
+
+#hobbies-container
+{
+  font-style: italic;
+}
+
+#skateboard
+{
+  inline-size: 600px;
+}
+
+#snowboard
+{
+  inline-size: 600px;
+}
+
+#garden
+{
+  inline-size: 600px;
+}
+
+img
+{
+  padding-left: 30px;
+}
+
+footer
+{
+  color:black;
+  background-color: #d2d1dcd7;
+  padding: 50px;
+  border-radius: 50%;
+  text-align: center;
+
+}
+.media-link
+{
+  border-radius: 45%;
+  margin: 50px;
+}

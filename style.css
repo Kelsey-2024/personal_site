@@ -1,0 +1,79 @@
+#headline-pov
+{
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+  display: flex;
+  justify-content:flex-end;
+
+}
+
+.nav
+{
+  padding-left:100px;
+}
+
+body
+{
+  font-family:'Times New Roman', Times, serif;
+  color: #FF1818;
+  background-color: #E8E5DD;
+}
+
+#flex-container
+{
+  display:flex;
+  justify-content:space-evenly;
+  padding-top: 5%;
+}
+
+.inside-flex
+{
+  flex-direction: column;
+  margin: 30px;
+  padding-right: 5%;
+}
+
+#inside-text
+{
+  font-size:small;
+}
+
+#self
+{
+  box-shadow: 5px 5px 10px 2px rgba(0,0,0,.8);
+}
+
+.next-flex
+{
+  flex-direction: column;
+}
+
+#next-text
+{
+  inline-size: 500px;
+  overflow: hidden;
+
+}
+
+h2
+{
+  flex-wrap:wrap;
+  text-align: center;
+  inline-size: 859px;
+  overflow: hidden;
+  padding-left: 25%;
+}
+
+footer
+{
+  color:black;
+  background-color: #d2d1dcd7;
+  padding: 50px;
+  border-radius: 50%;
+  text-align: center;
+
+}
+.media-link
+{
+  border-radius: 45%;
+  margin: 50px;
+}
