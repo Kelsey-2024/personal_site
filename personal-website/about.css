@@ -1,0 +1,37 @@
+header
+{
+  justify-content: space-between;
+}
+
+.flex-container
+{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content:flex-start;
+}
+
+#hobbies-container
+{
+  font-style: italic;
+}
+
+#skateboard
+{
+  inline-size: 600px;
+}
+
+#snowboard
+{
+  inline-size: 600px;
+}
+
+#garden
+{
+  inline-size: 600px;
+}
+
+dl > img
+{
+  padding-left: 30px;
+}
